@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Morrisonleary/craftcmsdemo#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-loader": "^3.5.3",
     "file-loader": "^6.0.0",
     "node-sass": "^4.14.1",
